@@ -1,1 +1,1 @@
-# ShapeAI_DataAnalysis
+# PYTHON-AND-DATA-ANALYTICS-7-DAYS
